@@ -10,6 +10,9 @@ body {
 	color:#ccc;
 	background:url('images/body-bg.gif');
 }
+thead {
+	font-size:24px;
+}
 a {
 	color:#e7b038;
 	text-decoration:underline;
