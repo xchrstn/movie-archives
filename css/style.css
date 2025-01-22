@@ -390,3 +390,24 @@ h1#logo a {
 #footer .rf {
 	float:right;
 }
+
+#search-bar{
+  float: left;
+}
+
+.viewbox {
+  float: right; 
+  }
+.clearfix: {
+    clear: both;
+}
+.view {
+  display:inline-block;
+}
+
+/*listmodel*/
+.lst {
+  border-top: 1px solid black;
+    border-bottom: 1px solid #d1d1e0;
+  padding: 15px;
+}
