@@ -75,6 +75,11 @@ h5 {
 	color:#f3b12b;
 	font-weight:bold;
 }
+h6 {
+	font-size:40px;
+	color:#f3b12b;
+	font-weight:bold;
+}
 #shell {
 	width:980px;
 	margin:0 auto;
